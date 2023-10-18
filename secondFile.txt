@@ -4,7 +4,11 @@
 4
 5
 6
-7
+<<<<<<< HEAD
 error
 error
+updated
+updated
+line is updated to 9
+>>>>>>> git_2
 line is updated to 10
