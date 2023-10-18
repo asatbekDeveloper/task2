@@ -1,0 +1,14 @@
+1
+2
+3
+4
+5
+6
+<<<<<<< HEAD
+error
+error
+updated
+updated
+line is updated to 9
+>>>>>>> git_2
+line is updated to 10
