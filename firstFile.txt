@@ -1,14 +1,9 @@
 <<<<<<< Updated upstream
 step 18 folder 2
 step 18 folder 2
-3
-4
-=======
-1
-2
-updated
-updated
 >>>>>>> Stashed changes
+updated
+updated
 5
 6
 updated for step20
